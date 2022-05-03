@@ -1,0 +1,2 @@
+# JavascriptMiner
+Hidden javascript Miner
