@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.gate.io/ref/3301721" target="_blank"><img width="480" height="150" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif"> CryptoERA
+</p>
+
 # Miner for Website | Hosting | Server
 ## Javascript XMR Miner
 ### Stream Here - > https://moneroocean.stream
