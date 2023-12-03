@@ -1,6 +1,7 @@
-<p align="center">
-  <a href="https://accounts.binance.com/register?ref=54548622" target="_blank"><img width="480" height="150" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif"> CryptoERA
-</p>
+  <p align="center">
+<a href="https://accounts.binance.com/register?ref=54548622" target="_blank" rel="noopener noreferrer">
+  <img style="max-width: 100%;" src="https://i.giphy.com/media/w2cs1oGwp3eN9xeuP6/giphy.webp" alt="Binance">
+</a>
 
 # Miner for Website | Hosting | Server
 ## Javascript XMR Miner
